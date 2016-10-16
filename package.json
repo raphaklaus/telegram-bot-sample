@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaklaus/telegram-bot-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaklaus/telegram-bot-sample/issues"
+  },
+  "homepage": "https://github.com/raphaklaus/telegram-bot-sample#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
