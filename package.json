@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raphaklaus/telegram-bot-sample#readme",
   "dependencies": {
+    "bunyan": "^1.8.1",
     "dotenv": "^2.0.0",
     "node-telegram-bot-api": "^0.24.0"
   }
